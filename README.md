@@ -1,1 +1,6 @@
-Welcome to the Lottie integration documentation for Nuxt 3! If you've found yourself navigating the complexities of using Lottie animations within Nuxt 3 projects, you're in the right place. This documentation aims to simplify the process and provide a step-by-step guide to seamlessly integrate Lottie animations into your Nuxt 3 applications. Whether you're starting a new project or encountering issues with an existing one, this guide will walk you through installation, setup, and implementation of Lottie animations, ensuring a smooth and efficient integration experience. Dive in to save time and avoid common pitfalls, making your web projects come to life with engaging Lottie animations effortlessly.
+
+---
+
+Welcome to the Lottie integration documentation for Nuxt 3! If you're navigating the intricacies of incorporating Lottie animations into your Nuxt 3 projects, you've come to the right place. This documentation is designed to simplify the integration process with a clear, step-by-step guide. Whether you're starting fresh or troubleshooting existing projects, this guide covers everything from installation to implementation, ensuring a seamless experience. Visit our [documentation website](https://nuxt3-lottie-documentation.vercel.app/) to explore detailed instructions and examples. Let's enhance your web projects with captivating Lottie animations effortlessly!
+
+---
